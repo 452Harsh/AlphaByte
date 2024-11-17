@@ -1,6 +1,5 @@
 # 🌱 AlphaByte: Audio Processing Pipeline for Sandalwood Cultivation  
-
-![Project Banner](https://via.placeholder.com/1200x400.png?text=AlphaByte+Project)  
+ 
 *Preserving indigenous knowledge on sandalwood cultivation through cutting-edge AI.*  
 
 ---
